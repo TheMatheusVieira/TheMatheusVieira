@@ -58,7 +58,7 @@ Uma página de ferramentas para o desenvolvimento front-end.
 
 ---
 
-## 💬 Vamos Conectar?
+## 💬 Vamos conversar?
 
 Estou sempre aberto para conversar sobre desenvolvimento, design, jogos ou colaborar em projetos interessantes!
 
