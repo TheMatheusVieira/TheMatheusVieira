@@ -77,6 +77,4 @@ Estou sempre aberto para conversar sobre desenvolvimento, design, jogos ou colab
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TheMatheusVieira&color=blue&style=flat-square" alt="Profile views" />
-  
-  **"Código é poesia, design é prosa, juntos criam experiências inesquecíveis"** ✨
 </div>
