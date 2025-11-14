@@ -12,7 +12,7 @@ Desenvolvedor frontend apaixonado por criar experiências web envolventes que un
 const developer = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
   technologies: {
-    frontEnd: ["React", "Next.js", "Tailwind CSS"],
+    frontEnd: ["React", "Next.js", "Expo", "Tailwind CSS"],
     tools: ["Git", "Figma", "VS Code"]
   },
   interests: ["🎮 Games", "🎬 Audiovisual", "✨ Design"],
