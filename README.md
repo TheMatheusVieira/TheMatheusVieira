@@ -64,6 +64,7 @@ Estou sempre aberto para conversar sobre desenvolvimento, design, jogos ou colab
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eumatheusvieira1/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vieiradesenvolvedor@gmail.com)
+vieiradesenvolvedor@gmail.com
 
 ---
 
