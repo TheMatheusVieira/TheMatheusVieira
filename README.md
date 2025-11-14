@@ -52,17 +52,9 @@ const developer = {
 
 ## 🚀 Projetos em Destaque
 
-### [Nome do Projeto 1](link-do-repositorio)
+### [Vie Design]([link-do-repositorio](https://github.com/TheMatheusVieira/VieDesign))
 Breve descrição do projeto e tecnologias utilizadas
-`React` `TypeScript` `Tailwind CSS`
-
-### [Nome do Projeto 2](link-do-repositorio)
-Breve descrição do projeto e tecnologias utilizadas
-`Next.js` `Framer Motion` `Figma`
-
-### [Nome do Projeto 3](link-do-repositorio)
-Breve descrição do projeto e tecnologias utilizadas
-`React` `Canvas API` `Game Development`
+`Next.js` `Tailwind CSS` `Figma`
 
 ---
 
@@ -71,7 +63,7 @@ Breve descrição do projeto e tecnologias utilizadas
 Estou sempre aberto para conversar sobre desenvolvimento, design, jogos ou colaborar em projetos interessantes!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eumatheusvieira1/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vieiradesenvolvedor@gmail.com)
 
 ---
 
