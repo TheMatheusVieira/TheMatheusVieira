@@ -52,7 +52,7 @@ const developer = {
 
 ## 🚀 Projetos em Destaque
 
-### [Vie Design]([link-do-repositorio](https://github.com/TheMatheusVieira/VieDesign))
+### [Vie Design](https://github.com/TheMatheusVieira/VieDesign)
 Breve descrição do projeto e tecnologias utilizadas
 `Next.js` `Tailwind CSS` `Figma`
 
