@@ -1,6 +1,6 @@
 👋 Olá, me chamo Matheus Vieira!
 
-### Frontend Developer | Design Enthusiast | Game & Audiovisual Lover
+### Frontend and mobile Developer | Design Enthusiast | Game & Audiovisual Lover
 
 Desenvolvedor frontend apaixonado por criar experiências web envolventes que unem código, design e criatividade. Transformo ideias em interfaces interativas com foco em performance e usabilidade.
 
