@@ -16,7 +16,6 @@ const developer = {
     tools: ["Git", "Figma", "VS Code"]
   },
   interests: ["🎮 Games", "🎬 Audiovisual", "✨ Design"],
-  currentFocus: "Criando interfaces que contam histórias"
 };
 ```
 
