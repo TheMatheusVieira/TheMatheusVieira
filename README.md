@@ -41,15 +41,6 @@ const developer = {
 
 ---
 
-## 🎯 O Que Me Motiva
-
-Minha abordagem combina:
-- 🎨 **Design Thinking** - Interfaces que resolvem problemas reais
-- ⚡ **Performance** - Código otimizado e experiências fluidas  
-- 🎮 **Gamificação** - Elementos interativos que engajam
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
