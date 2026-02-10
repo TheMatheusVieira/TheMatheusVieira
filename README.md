@@ -37,14 +37,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMatheusVieira&show_icons=true&theme=tokyonight"/> 
-</div>
-
----
-
 ## 💬 Vamos conversar?
 
 Estou sempre aberto para conversar sobre desenvolvimento, design, jogos ou colaborar em projetos interessantes!
