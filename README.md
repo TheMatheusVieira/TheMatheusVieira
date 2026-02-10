@@ -46,9 +46,6 @@ const developer = {
 
 ---
 
-
----
-
 ## 💬 Vamos conversar?
 
 Estou sempre aberto para conversar sobre desenvolvimento, design, jogos ou colaborar em projetos interessantes!
