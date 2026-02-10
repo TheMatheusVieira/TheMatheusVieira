@@ -19,10 +19,6 @@ const developer = {
 };
 ```
 
-- 🔭 Atualmente trabalhando com **React** e explorando as melhores práticas de desenvolvimento
-- 🎬 Sempre buscando incorporar elementos **audiovisuais** nos projetos
-- 🌱 Constantemente aprendendo e experimentando novas tecnologias
-
 ---
 
 ## 🛠️ Tech Stack
