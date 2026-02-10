@@ -46,11 +46,6 @@ const developer = {
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### [Vie Design](https://github.com/TheMatheusVieira/VieDesign)
-Uma página de ferramentas para o desenvolvimento front-end.
-`Next.js` `Tailwind CSS` `Figma`
 
 ---
 
